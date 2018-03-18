@@ -1,0 +1,30 @@
+h1 {
+    color: #4700b3;
+    font-style: oblique;
+    font-size: 500%;
+    font-family: sans-serif;
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+img {
+    float: right;
+    height: 360;
+    width: 480;
+}
+html {
+      background-color: #99ffff;
+    }
+.intro {
+      text-align: center;
+      padding: 6px;
+      margin: 50px;
+}
+.Me {
+    text-align: center;
+    margin: 50px;
+}
+.bold {
+    font-weight: bold;
+  }
