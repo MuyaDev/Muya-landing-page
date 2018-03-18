@@ -10,7 +10,7 @@ h2 {
 }
 img {
     float: right;
-    height: 360;
+    height: 300;
     width: 480;
 }
 html {
@@ -22,9 +22,17 @@ html {
       margin: 50px;
 }
 .Me {
-    text-align: center;
+    text-align: left;
     margin: 50px;
 }
 .bold {
     font-weight: bold;
   }
+.info {
+    font-size: 200%;
+    background-color:#ffff66;
+  }
+.personal{
+  font-size: 200%;
+  background-color: #ffff66;
+}
