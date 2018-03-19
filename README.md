@@ -6,7 +6,7 @@ License Information: READ License
 
 Author & Contributor
 -----------
-John MUYA
+John Muya
 
 Project Description
 ---------
